@@ -1,0 +1,130 @@
+#viewport{
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  min-height: 100%;
+
+}
+
+#tophalf{
+  text-align: center;
+}
+
+#image{
+  padding-top: 109px;
+  height: 92px;
+  width: 272px;
+  margin: auto;
+}
+.buttons{
+  width: 323px; /* Change this value to center buttons*/
+  height: 50px;
+  margin: auto;
+
+
+}
+.searchbar{
+  height: 30px;
+  width: 525px;
+  margin: auto;
+}
+
+.searchbox{
+  width: 525px;
+  margin: auto;
+}
+
+input[type=submit] {
+    padding:5px 25px;
+    background:#f2f2f2;
+    border:0 none;
+    cursor:pointer;
+
+    border-radius: 1px;
+}
+
+.submit{
+  color: #757575;
+    cursor: default;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+}
+
+nav {
+    height: 50px;
+    margin: 10px 10px 0px 0px;
+    float: right;
+}
+
+.navbtn{
+  max-width: 20%;
+  margin:auto;
+}
+
+#profile{
+  height: 30px;
+  width: 30px;
+}
+
+.ul{
+  display: inline-flex;
+  padding-top: 8px;
+  font-family: arial, sans-serif;
+  font-size: small;
+
+}
+
+#one, #two{
+  color: #757575;
+  text-decoration: none;
+  font-weight: 100;
+}
+
+
+div{
+  display: block;
+
+}
+
+.footer {
+    position: absolute;
+    height: 60px;
+    right: 0;
+    bottom: 0;
+    left: -7px;
+    background-color: #efefef;
+    padding-right: 0px;
+    padding-left: 20px;
+    font-family: arial, sans-serif;
+    font-size: small;
+
+}
+
+.right{
+  float: right;
+  width: 25%
+
+}
+
+.left{
+  float:left;
+  width: 25%;
+
+}
+.footbtn{
+  padding-top: 20px;
+  display: inline-flex;
+  min-width: 64px;
+  width: 30%;
+  margin: auto;
+
+}
+
+#three{
+  color: #757575;
+  text-decoration: none;
+}
